@@ -1,9 +1,12 @@
-# ⚡ Design meets Logic
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&dark=true&height=150&section=header&text=WELCOME_TO_CICATRIX_OS&fontSize=40&animation=twinkling" />
+</p>
 
-### Hi there, I'm Ascarya Haldis! 
-**Information Systems Student @ Brawijaya University | Graphic Designer at MenulisID**
-
-I bridge the gap between aesthetic design and functional systems.
+```bash
+$ whoami
+> Ascarya Haldis Jagaddhita Aryaguna
+> Information Systems @ Brawijaya University
+> Graphic Designer @ MenulisID
 
 ---
 
