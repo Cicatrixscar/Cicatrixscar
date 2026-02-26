@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&dark=true&height=150&section=header&text=WELCOME_TO_CICATRIX_OS&fontSize=40&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=2EAF50&background=00000000&center=true&vCenter=true&width=800&height=120&lines=%3E_WELCOME_TO_CICATRIX_OS;%3E_INITIALIZING_SYSTEM...;%3E_SYSTEM_READY." alt="Typing Terminal" />
 </p>
 
 ```bash
 $ whoami
-> Ascarya Haldis Jagaddhita Aryaguna
+> Ascarya Haldis
 > Information Systems @ Brawijaya University
 > Graphic Designer @ MenulisID
 
