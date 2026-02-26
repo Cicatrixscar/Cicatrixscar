@@ -17,7 +17,7 @@ I bridge the gap between aesthetic design and functional systems.
 
 **Information Systems & Security**
 ![Brawijaya University](https://img.shields.io/badge/Education-Sistem_Informasi_UB-blue?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/Focus-CTF_&_Cybersecurity-red?style=flat-square&logo=hackthebox&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Currently_Studying-CTF_&_Cybersecurity-red?style=flat-square&logo=hackthebox&logoColor=white)
 
 ---
 
