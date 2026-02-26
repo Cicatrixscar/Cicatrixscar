@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=C40C0C&background=00000000&width=800&height=50&lines=%3E_WELCOME_TO_CICATRIX?=HIniZZZs..SCAR_OS;%3E_INITIALIZING_SYSTEM...;%3E_ACCESS_GRANTED." alt="Typing Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=DC143C&background=00000000&width=800&height=50&lines=%3E_WELCOME_TO_CICATRIX?=HIniZZZs..SCAR_OS;%3E_INITIALIZING_SYSTEM...;%3E_ACCESS_GRANTED." alt="Typing Terminal" />
 </p>
 
 ```bash
