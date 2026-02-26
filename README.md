@@ -26,7 +26,7 @@ I bridge the gap between aesthetic design and functional systems.
 - 🖋 Designing for the **MenulisID** community
 
 ### 📊 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=Cicatrixscar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cicatrixscar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
