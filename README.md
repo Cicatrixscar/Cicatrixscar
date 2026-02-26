@@ -1,10 +1,10 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2EAF50&background=00000000&width=800&height=100&lines=%3E_WELCOME_TO_CICATRIX_OS;%3E_INITIALIZING_SYSTEM...;%3E_ACCESS_GRANTED." alt="Typing Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2EAF50&background=00000000&width=800&height=100&lines=%3E_WELCOME_TO_CICATRX?=FJVNDI?..SCAR_OS;%3E_INITIALIZING_SYSTEM...;%3E_ACCESS_GRANTED." alt="Typing Terminal" />
 </p>
 
 ```bash
 $ whoami
-> Ascarya Haldis Jagaddhita Aryaguna
+> Ascarya Haldis J.A
 > Role: Graphic Designer @ MenulisID
 > Education: Information Systems @ Brawijaya University
 
