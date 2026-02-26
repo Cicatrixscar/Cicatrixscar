@@ -5,14 +5,17 @@
 <img src="https://komarev.com/ghpvc/?username=Cicatrixscar&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 
 
+
 ## ⚡ Graphic Designer & Logic Thinker
 **Information Systems Student @ Brawijaya University | Designer @ MenulisID**
 
 *I bridge the gap between aesthetic design and functional systems.*
 
 
+
 ### 🚀 Current Focus
 🏁 **CTF** Challenges | 🖋️ **MenulisID** Visuals
+
 
 
 ### 🎨 My Creative & Tech Toolkit
@@ -21,10 +24,12 @@
 ![Brawijaya University](https://img.shields.io/badge/Education-Sistem_Informasi_UB-blue?style=flat-square) ![Cybersecurity](https://img.shields.io/badge/Currently_Studying-CTF_&_Cybersecurity-red?style=flat-square&logo=hackthebox&logoColor=white)
 
 
+
 ### 📊 GitHub Activity
 <a href="https://github.com/Cicatrixscar">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cicatrixscar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 </a>
+
 
 
 ### 📫 Let's Connect:
