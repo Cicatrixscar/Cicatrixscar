@@ -13,7 +13,7 @@ I bridge the gap between aesthetic design and functional systems.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 ![Ibis Paint X](https://img.shields.io/badge/Ibis_Paint_X-00A9E0?style=flat-square&logo=paint.net&logoColor=white)
-![Style](https://img.shields.io/badge/Style-Minimalist_&_Low_Poly-black?style=flat-square)
+![Style](https://img.shields.io/badge/Style-Random-black?style=flat-square)
 
 **Information Systems & Security**
 ![Brawijaya University](https://img.shields.io/badge/Education-Sistem_Informasi_UB-blue?style=flat-square)
