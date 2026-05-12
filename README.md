@@ -29,6 +29,6 @@ $ status --current
 
 ---
 ### 📫 `ping network_contact`
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ascarya-haldis-9042862a7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ascarya-haldis/)
 
 > *"Being afraid isn’t a bad thing. It’s my fear that’s brought me this far."* — **Eisen**
